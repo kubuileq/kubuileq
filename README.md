@@ -35,18 +35,24 @@
 </p>
 
 <h3 align="left">My Skills:</h3>
-- 🧑‍💻 **Web Development**: HTML5, CSS3, JavaScript, PHP, MySQL, React, TypeScript, Sass
-- 💻 **JavaScript/React**: Developing interactive UIs and focusing on improving code performance.
-- ⚙️ **Backend Development**: Experience with PHP for server-side scripting and working with databases (MySQL).
-- 🖥️ **Web Design**: Excellent in front-end design with a strong focus on usability and user experience.
-- ⚡ **Tools & Frameworks**: Experience with various tools for version control (Git), code editors, and package managers (npm, yarn).
+<ul>
+  <li>🧑‍💻 <strong>Web Development</strong>: HTML5, CSS3, JavaScript, PHP, MySQL, React, TypeScript, Sass</li>
+  <li>💻 <strong>JavaScript/React</strong>: Developing interactive UIs and focusing on improving code performance.</li>
+  <li>⚙️ <strong>Backend Development</strong>: Experience with PHP for server-side scripting and working with databases (MySQL).</li>
+  <li>🖥️ <strong>Web Design</strong>: Excellent in front-end design with a strong focus on usability and user experience.</li>
+  <li>⚡ <strong>Tools & Frameworks</strong>: Experience with various tools for version control (Git), code editors, and package managers (npm, yarn).</li>
+</ul>
 
 <h3 align="left">Current Focus:</h3>
-- 🎯 Improving JavaScript and TypeScript skills.
-- 📦 Learning and applying **React.js** for building modern, dynamic web applications.
-- 💡 Working on **MusicBot** project for an enhanced user experience.
+<ul>
+  <li>🎯 Improving JavaScript and TypeScript skills.</li>
+  <li>📦 Learning and applying <strong>React.js</strong> for building modern, dynamic web applications.</li>
+  <li>💡 Working on <strong>MusicBot</strong> project for an enhanced user experience.</li>
+</ul>
 
 <h3 align="left">Other Interests:</h3>
-- 🎮 Gaming: Active in various online communities like ROFA and Roblox.
-- 🎧 Music: Constantly looking for new ways to integrate music and tech (like with **MusicBot**).
-- 🛠️ Project management: Currently refining skills related to managing development projects and team collaboration.
+<ul>
+  <li>🎮 <strong>Gaming</strong>: Active in various Roblox/Developing online communities</li>
+  <li>🎧 <strong>Music</strong>: Constantly looking for new ways to integrate music and tech (like with <strong>MusicBot</strong>).</li>
+  <li>🛠️ <strong>Project management</strong>: Currently refining skills related to managing development projects and team collaboration.</li>
+</ul>
