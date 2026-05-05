@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm kubuileq</h1>
 <h3 align="center">Frontend dev from Poland</h3>
 
-- 🔭 Working on: MusicBot  
-- 🌱 Learning: React, TypeScript, PHP  
+- 🔭 Working on: 
+  - 050nodes
+  - a football manager style game
+- 🌱 Learning: React, TypeScript, Express, basics of system design
 
 ---
 
@@ -21,12 +23,12 @@
 
 ### Focus
 - React + TypeScript development
-- Building MusicBot
+- Building and shipping projects
 - Improving frontend performance & structure
 
 ---
 
 ### Interests
 - Web dev & UI building
-- Music + tech projects
-- Game/Discord bots & automation
+- Networks infrastructure and system management
+- Backend & API integration
